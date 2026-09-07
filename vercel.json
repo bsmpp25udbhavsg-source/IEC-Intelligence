@@ -1,6 +1,10 @@
 {
   "rewrites": [
     {
+      "source": "/",
+      "destination": "https://iec-performance-hub.bsmpp25udbhavsg.chatgpt.site/"
+    },
+    {
       "source": "/:path*",
       "destination": "https://iec-performance-hub.bsmpp25udbhavsg.chatgpt.site/:path*"
     }
