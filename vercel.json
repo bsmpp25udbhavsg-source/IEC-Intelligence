@@ -1,6 +1,11 @@
 {
   "redirects": [
     {
+      "source": "/",
+      "destination": "https://iec-performance-hub.bsmpp25udbhavsg.chatgpt.site/login",
+      "permanent": false
+    },
+    {
       "source": "/:path*",
       "destination": "https://iec-performance-hub.bsmpp25udbhavsg.chatgpt.site/:path*",
       "permanent": false
